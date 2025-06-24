@@ -1,0 +1,23 @@
+#bos{
+    margin-top: 20px;
+}
+.navbar-nav{
+    text-align: right;
+}
+#totalb{
+    font-size: 23px;
+    font-family: serif;
+}
+#Kembali{
+    font-size: 23px;
+    font-family: serif;
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+body{
+    background: rgb(63,63,63);
+    background: radial-gradient(circle, rgba(63,63,63,1) 0%, rgba(127,127,127,1) 50%, rgba(190,190,190,1) 100%);
+}
